@@ -13,10 +13,6 @@ K
 src/main/kotlin/Exercise.kt,6/c/6c72d910bf09093b74cd0df4c17ea1e343e52586
 U
 %src/main/kotlin/interfaceEX/Runner.kt,9/0/9020f5c0d18ecc61cde9bfea1e2fe36e1fbf41d7
-J
-src/main/kotlin/Animal2.kt,f/7/f72deadde36b62b7b71fa663b92f785f8d452eef
-T
-$src/main/kotlin/highfunction/Book.kt,e/e/eee7b85005705ee46d7eca1821497dfc6e8c0067
 Å
 Q.idea/sonarlint/securityhotspotstore/b/d/bd422d35244f159af2d2eea4c661394a226f5c91,0/a/0ad157d5e33ffcec2a440a759c9c9ab26781c7b1
 Å
@@ -39,12 +35,8 @@ G
 src/main/kotlin/IfEx.kt,6/e/6ea69c6e98e0cba9f1990ee28dde68f2341bc666
 w
 G.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba,9/d/9db44714da783e82392884aeea0d83f0125570ed
-I
-src/main/kotlin/Person.kt,a/7/a777d84ff92f40a4545df61ec561dc7effdfdf15
 T
 $src/main/kotlin/ConstructorPerson.kt,b/c/bc470cbb66e5296c838d7b76b6d9d5fd8f5730fb
-K
-src/main/kotlin/Function.kt,c/b/cb9dff32327cd08de8b3e7e735797ad42a81f2f6
 J
 src/main/kotlin/ArrayEx.kt,2/6/264ec29e197b8e6ffed443d99740aeeacd6d4567
 Å
