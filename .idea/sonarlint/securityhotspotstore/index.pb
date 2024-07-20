@@ -69,3 +69,7 @@ H
 src/main/kotlin/SetEx.kt,1/5/158a666fd19bba1cbb774e7294a6de5e904e1285
 P
  src/main/kotlin/OverLoadingEx.kt,6/6/669d66ef9fc672878e1d1755f4d86314f75d08d9
+P
+ src/main/kotlin/NestedClassEx.kt,8/7/8785bc93557dfbb79e05a58c4ccf78ae1c541b39
+H
+src/main/kotlin/MapEx.kt,d/3/d358d396958b5417240ce02cac97899f8ad03f0d

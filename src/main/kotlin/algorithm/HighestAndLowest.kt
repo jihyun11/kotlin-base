@@ -8,6 +8,7 @@ fun highAndLow(numbers: String): String {
     val max = numberList.maxOrNull()
     val min = numberList.minOrNull()
 
+
     return "$max $min"
 }
 
